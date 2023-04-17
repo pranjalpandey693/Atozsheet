@@ -17,3 +17,4 @@
         swap(arr[i],arr[mini]);
         
     }
+    }
